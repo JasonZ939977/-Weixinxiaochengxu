@@ -1,0 +1,47 @@
+{
+  "pages":[
+    "pages/index/index",
+    "pages/text/text",
+    "pages/word/word",
+    "pages/logs/logs"
+  ],
+  "window":{
+    "backgroundColor": "gray",
+    "backgroundTextStyle":"light",
+    "navigationBarBackgroundColor": "#000",
+    "navigationBarTitleText": "测试小程序",
+    "navigationBarTextStyle":"white",
+    "enablePullDownRefresh" : true,
+    "onReachBottomDistance" : 1
+  },
+  "tabBar": {
+    "backgroundColor": "#eeeeee",
+    "selectedColor": "#000000",
+    "list": [
+      {
+        "pagePath": "pages/index/index",
+        "text": "首页",
+        "iconPath": "images/icon/aochuang.png",
+        "selectedIconPath": "images/icon/fuchouzhelianmeng-haoke.png"
+      },
+      {
+      "pagePath": "pages/text/text",
+      "text": "文档",
+      "iconPath": "images/icon/dongrizhanshi.png",
+      "selectedIconPath": "images/icon/fuchouzhelianmeng-heibao.png"
+      },
+      {
+      "pagePath": "pages/word/word",
+      "text": "文字",
+      "iconPath": "images/icon/feihongnvwu.png",
+      "selectedIconPath": "images/icon/fuchouzhelianmeng-heiguafu.png"
+      },
+      {
+        "pagePath": "pages/logs/logs",
+        "text": "日志",
+        "iconPath": "images/icon/fuchouzhelianmeng-gangtiexia.png",
+        "selectedIconPath": "images/icon/fuchouzhelianmeng-huanshi.png"
+      }
+    ]
+  }
+}
