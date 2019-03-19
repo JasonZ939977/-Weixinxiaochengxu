@@ -1,8 +1,12 @@
 <!--pages/text/text.wxml-->
 <view class='content'>
   <view class='topSearch'>
-    <button size='mini'>搜索</button>
-    <input class='inputText' placeholder='这是搜索框' focus></input>
+    <view class='serachButton'>
+      <button size='mini'>搜索</button>
+    </view>
+    <view class='searchBar'>
+      <input class='inputText' placeholder='这是搜索框' focus></input>
+    </view>
   </view>
 </view>
 <text>pages/text/text.wxml</text>

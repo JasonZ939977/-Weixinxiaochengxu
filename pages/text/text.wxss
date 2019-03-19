@@ -5,3 +5,11 @@
   flex-direction: row;
   margin: 10px;
 }
+
+.serachButton{
+  width: fit-content;
+}
+
+.searchBar{
+  margin-left: 5px;
+}
