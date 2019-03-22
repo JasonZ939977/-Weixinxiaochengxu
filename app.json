@@ -21,26 +21,26 @@
       {
         "pagePath": "pages/index/index",
         "text": "首页",
-        "iconPath": "images/icon/aochuang.png",
-        "selectedIconPath": "images/icon/fuchouzhelianmeng-haoke.png"
+        "iconPath": "pages/images/icon/aochuang.png",
+        "selectedIconPath": "pages/images/icon/aochuang.png"
       },
       {
       "pagePath": "pages/text/text",
       "text": "文档",
-      "iconPath": "images/icon/dongrizhanshi.png",
-      "selectedIconPath": "images/icon/fuchouzhelianmeng-heibao.png"
+      "iconPath": "pages/images/icon/dongrizhanshi.png",
+      "selectedIconPath": "pages/images/icon/dongrizhanshi.png"
       },
       {
       "pagePath": "pages/word/word",
       "text": "文字",
-      "iconPath": "images/icon/feihongnvwu.png",
-      "selectedIconPath": "images/icon/fuchouzhelianmeng-heiguafu.png"
+      "iconPath": "pages/images/icon/feihongnvwu.png",
+      "selectedIconPath": "pages/images/icon/feihongnvwu.png"
       },
       {
         "pagePath": "pages/logs/logs",
         "text": "日志",
-        "iconPath": "images/icon/fuchouzhelianmeng-gangtiexia.png",
-        "selectedIconPath": "images/icon/fuchouzhelianmeng-huanshi.png"
+        "iconPath": "pages/images/icon/fuchouzhelianmeng-gangtiexia.png",
+        "selectedIconPath": "pages/images/icon/fuchouzhelianmeng-gangtiexia.png"
       }
     ]
   }

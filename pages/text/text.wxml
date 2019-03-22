@@ -8,5 +8,24 @@
       <input class='inputText' placeholder='这是搜索框' focus></input>
     </view>
   </view>
+  <view class='hr'></view>
+  <view class='menu'>
+    <view class='menu-item'>
+      <image src='../images/icon/fuchouzhelianmeng-leishen.png' class='menu-item-image'></image>
+      <view>雷神</view>
+    </view>
+    <view class='menu-item'>
+      <image src='../images/icon/fuchouzhelianmeng-lieying.png' class='menu-item-image'></image>
+      <view>猎鹰</view>
+    </view>
+    <view class='menu-item'>
+      <image src='../images/icon/fuchouzhelianmeng-meiguoduichang.png' class='menu-item-image'></image>
+      <view>美队</view>
+    </view>
+    <view class='menu-item'>
+      <image src='../images/icon/fuchouzhelianmeng-yingyan.png' class='menu-item-image'></image>
+      <view>鹰眼</view>
+    </view>
+  </view>
+  <view class='hr'></view>
 </view>
-<text>pages/text/text.wxml</text>

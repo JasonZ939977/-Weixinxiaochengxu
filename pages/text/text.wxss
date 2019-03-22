@@ -13,3 +13,25 @@
 .searchBar{
   margin-left: 5px;
 }
+
+.menu{
+  display: flex;
+  flex-direction: row;
+  text-align: center;
+}
+
+.menu-item{
+  font-size: 12px;
+  width: 25%;
+}
+
+.menu-item-image{
+  width: 30px;
+  height: 30px;
+}
+
+.hr{
+  height: 5px;
+  background-color: #cccccc;
+  margin: 15px;
+}
